@@ -1,9 +1,11 @@
-# AI Market Neutral — Research
+# AI Market Neutral — Research Series
 
-This repository hosts research papers and technical notes related to deterministic AI-assisted portfolio construction and beta-neutral signal generation.
+This repository hosts research papers and technical notes
+related to deterministic AI-assisted portfolio construction.
 
-Current working paper:
+Research Series
 
+Working Paper No. 01  
 The AI Alpha Paradox  
 Deterministic Multi-AI Signal Construction for Institutional Portfolio Governance
 
