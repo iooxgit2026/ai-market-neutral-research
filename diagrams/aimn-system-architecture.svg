@@ -1,0 +1,71 @@
+<svg width="900" height="720" viewBox="0 0 900 720" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.box { fill:#ffffff; stroke:#222; stroke-width:2; }
+.title { font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; }
+.text { font-family:Arial, Helvetica, sans-serif; font-size:14px; }
+.arrow { stroke:#222; stroke-width:2; marker-end:url(#arrow); }
+</style>
+
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+<path d="M0,0 L6,3 L0,6 Z" fill="#222"/>
+</marker>
+</defs>
+
+<!-- AI SIGNAL AGENTS -->
+<rect class="box" x="150" y="20" width="600" height="120"/>
+<text class="title" x="450" y="45" text-anchor="middle">AI SIGNAL AGENTS</text>
+
+<text class="text" x="200" y="75">Claude Sonnet 4.5</text>
+<text class="text" x="420" y="75">Growth / Momentum</text>
+
+<text class="text" x="200" y="95">Mistral Large 2512</text>
+<text class="text" x="420" y="95">Risk / Downside Fragility</text>
+
+<text class="text" x="200" y="115">Gemini 3 Flash</text>
+<text class="text" x="420" y="115">Neutral / Factor-Based</text>
+
+<text class="text" x="200" y="135">Grok 4</text>
+<text class="text" x="420" y="135">Contrarian / Mean Reversion</text>
+
+<!-- Arrow -->
+<line class="arrow" x1="450" y1="140" x2="450" y2="180"/>
+
+<!-- ORCHESTRATOR -->
+<rect class="box" x="200" y="180" width="500" height="60"/>
+<text class="title" x="450" y="215" text-anchor="middle">ORCHESTRATOR (Claude Haiku 4.5)</text>
+
+<line class="arrow" x1="450" y1="240" x2="450" y2="280"/>
+
+<!-- PORTFOLIO CRITIC -->
+<rect class="box" x="150" y="280" width="600" height="100"/>
+<text class="title" x="450" y="305" text-anchor="middle">PORTFOLIO CRITIC</text>
+
+<text class="text" x="200" y="335">L1 Rules Engine</text>
+<text class="text" x="420" y="335">Trend / RSI / Sector / Beta</text>
+
+<text class="text" x="200" y="360">L2 Gemini 2.5 Flash</text>
+<text class="text" x="420" y="360">Cross-Correlation / Macro</text>
+
+<line class="arrow" x1="450" y1="380" x2="450" y2="420"/>
+
+<!-- DETERMINISTIC ENGINE -->
+<rect class="box" x="200" y="420" width="500" height="70"/>
+<text class="title" x="450" y="455" text-anchor="middle">DETERMINISTIC SIGNAL ENGINE</text>
+<text class="text" x="450" y="475" text-anchor="middle">SHA-256 Decision Immutability</text>
+
+<line class="arrow" x1="450" y1="490" x2="450" y2="530"/>
+
+<!-- SIGNAL -->
+<rect class="box" x="250" y="530" width="400" height="50"/>
+<text class="title" x="450" y="560" text-anchor="middle">BETA-NEUTRAL SIGNAL</text>
+
+<line class="arrow" x1="450" y1="580" x2="450" y2="620"/>
+
+<!-- API -->
+<rect class="box" x="250" y="620" width="400" height="60"/>
+<text class="title" x="450" y="650" text-anchor="middle">API DELIVERY</text>
+<text class="text" x="450" y="670" text-anchor="middle">Signal-as-a-Service</text>
+
+</svg>
