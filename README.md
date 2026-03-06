@@ -16,6 +16,7 @@ More information
 https://aimarketneutral.com
 
 Citation
+
 If you use this research in academic or professional work, please cite:
 
 Ongaro, I. A. (2026).
